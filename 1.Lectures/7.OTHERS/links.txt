@@ -1,0 +1,39 @@
+UNAC GUIA LINK
+https://fcnm.unac.edu.pe/laboratorio-y-talleres/lab-de-fisica-molecular-fisica-ii/
+
+Laboratorio de Física Molecular - Física II
+
+El Laboratorio de Física II (Física Molecular) cuenta con la infraestructura y los instrumentos para realizar diversas experiencias en cuanto al mundo de la Mecánica de Fluidos y Termodinámica, donde se prestan servicios tanto a nuestra casa de estudios como diversas facultades que requieran utilizar los ambientes de esta.
+
+Listado de experiencias
+1.Movimiento Armónico Simple
+2.Movimiento Armónico Forzado
+3.Péndulo de Torsión
+4.Ondas en un hilo
+5.Modos resonantes en tubos
+6.Presión Hidrostática
+7.Principio de Arquímedes
+8.Expansión Térmica
+9.Equivalente Mecánico del calor
+10.Equivalente Eléctrico del Calor
+11.Ley de Boyle
+12.Razón de calores específicos
+
+
+Webpages laboratorios:
+
+phet-Interactive Simulations
+Simulaciones Interactivas para Ciencias y Matemática
+https://phet.colorado.edu/es_PE/
+
+oPhysics: Interactive Physics Simulations
+https://ophysics.com/k8.html
+
+
+Webpage notas
+
+http://www.sc.ehu.es/sbweb/fisica/solido/din_rotacion/alargamiento/alargamiento.htm
+
+https://dewesoft.com/es/blog/modulo-de-young-y-coeficiente-de-poisson
+
+https://es.khanacademy.org/science/physics
